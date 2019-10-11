@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cabeza{
+    background:#822AB4;
+    width: 100% ;
+    height: 100% ;
+}
+p{
+    text-align: left;
+    font-size: 15px;
+}
+
+#menu li a:hover {
+    background-color: black;
+    padding-bottom: 2px;
+    color: coral;
+
+}
+nav div ul li{
+    display: inline;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+nav{
+    background-color: black;
+    font-size: 30px;
+}
+.areaPrincipal{
+    background-image: url("../img/fondo.jpg");
+}
+#datos{
+    width: 50%;
+    height: 500px;
+    background-color: rgb(185, 100, 153);
+
+}
+
+.descripcion{
+    color: red;
+}
+.piePagina{
+    width: 100%;
+    height: 100px;
+    background-color:black;
+}
+
